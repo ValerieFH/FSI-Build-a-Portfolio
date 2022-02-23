@@ -30,6 +30,11 @@ p span {
     background: rgba(173, 172, 172, 0.3);
 }
 
+li {
+    display: inline;
+    background:rgba(0, 0, 0, 0.3)
+}
+
 a {
     font-family: 'Courier New';
     font-size: 2em;
